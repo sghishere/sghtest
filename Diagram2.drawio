@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-22T11:10:06.978Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" etag="QIxh7oV00xJFoDYD7Pvl" version="13.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-22T11:12:58.607Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" etag="eYwS5VrwYbAZ4yy8yrrU" version="13.7.3" type="github">
   <diagram id="lWW11TqzHOI8xHHozAi-" name="Page-1">
     <mxGraphModel dx="1422" dy="793" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -120,6 +120,12 @@
         </mxCell>
         <mxCell id="BpniLgyJ591ggoECWtUv-63" value="回放视频流" style="line;strokeWidth=1;html=1;fillColor=#036897;gradientColor=none;fontColor=#000000;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;strokeColor=#036897;" vertex="1" parent="1">
           <mxGeometry x="674.0000000000001" y="153" width="70" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="BpniLgyJ591ggoECWtUv-68" value="监控中心" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;fontSize=21;horizontal=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="135" width="30" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="BpniLgyJ591ggoECWtUv-69" value="前端子系统" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;fontSize=21;horizontal=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="510" width="30" height="105" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
